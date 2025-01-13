@@ -2,11 +2,18 @@
     "main": {
         "name": "Muhammad Irfan Noor Wahid",
         "description": "I am a Backend Programmer",
-        "image": "images/profile.jpg",
+        "image":"profilepic.jpg",
         "github": "https://github.com/irfan-wahid",
         "project": "https://github.com/irfan-wahid",
-        "bio": "Ini adalah bio saya",
-        "contactMessage": "Hubungi saya",
-        "email": "irfannoorwahid@gmail.com"
+        "bio": "This is bio section",
+        "contactmessage":"Hello, here I am",
+        "email": "irfannoorwahid@gmail.com",
+        "phone": "08123456789",
+        "address":{
+            "street":"Jl jalan yuk",
+            "city":"Bandung",
+            "state":"West Java",
+            "zip": "12345"
+        }
     }
 }
