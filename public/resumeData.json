@@ -1,0 +1,12 @@
+{
+    "main": {
+        "name": "Muhammad Irfan Noor Wahid",
+        "description": "I am a Backend Programmer",
+        "image": "images/profile.jpg",
+        "github": "https://github.com/irfan-wahid",
+        "project": "https://github.com/irfan-wahid",
+        "bio": "Ini adalah bio saya",
+        "contactMessage": "Hubungi saya",
+        "email": "irfannoorwahid@gmail.com"
+    }
+}
