@@ -4,14 +4,15 @@
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
+    "jquery": "^3.6.0",
     "particles-bg": "^2.5.5",
     "react": "^18.2.0",
     "react-awesome-reveal": "^4.3.1",
     "react-dom": "^18.2.0",
     "react-ga": "^3.3.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^4.2.4",
-    "jquery": "^3.6.0"
+    "react-zmage": "^0.8.5-beta.37",
+    "web-vitals": "^4.2.4"
   },
   "scripts": {
     "start": "react-scripts start",
